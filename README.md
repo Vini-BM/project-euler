@@ -1,2 +1,2 @@
 # project-euler
-Programs developed for Project Euler
+Code developed for Project Euler problems
